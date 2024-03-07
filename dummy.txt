@@ -1,0 +1,34 @@
+Dalam perkembangannya, akuntansi banyak menghadapi tantangan. Salah
+satunya berasal dari inovasi teknologi komputer. Terlebih dengan ditemukannya
+basis data (database) relasional oleh Codd pada tahun 1970 (Romney, Steinbart,
+Cushing, 1997:138). Basis data dilengkapi sarana pemakaian bahasa Query yang
+mudah cara penggunaannya dan memberikan manfaat yang lebih. Bahasa Query
+yang diaplikasikan pada basis data keuangan akan dapat menghasilkan informasi
+keuangan yang siap pakai dan memenuhi kebutuhan pemakai setiap saat. Laporan
+keuangan dapat dibuat dengan mudah, cepat, akurat, benar dan dapat dibuat dalam
+periode waktu yang diinginkan oleh pemakai laporan untuk diperiksa kebenarannya.
+Informasi mengenai aktiva tidak hanya dilaporkan berdasarkan historical cost,
+tetapi juga dilaporkan dalam current replacement cost dan market value (Romney,
+Steinbart, Cushing, 1997:156). Selain itu basis data juga menyediakan data-data
+non-keuangan misalnya data pelanggan, data produk dan lain-lain. Dengan
+demikian pelaku bisnis mempunyai kelebihan, yaitu memiliki sekumpulan data yang
+memberikan dukungan dalam menjalankan strategi pemasaran dan mengambil
+keputusan-keputusan yang bersifat strategik.
+Tantangan di atas makin memacu para akuntan untuk meningkatkan
+pemahamannya akan basis data secara umum selain keahlian akuntansi yang
+dimilikinya. Hal ini dirasa perlu agar akuntan tidak sekedar mampu menjalankan
+praktek akuntansi secara manual, namun juga mampu menjalankan praktek
+akuntansi secara komputerisasi. Dengan demikian akuntan makin memiliki nilai
+tambah dan mampu menghadapi tantangan-tantangan yang berasal dari inovasi
+teknologi komputer, khususnya dengan adanya perkembangan basis data.
+Maraknya kemajuan teknologi komputer yang mampu membuat atau
+menampilkan data keuangan, jurnal dan laporan keuangan setiap saat, akurat dan
+cepat mengakibatkan siklus akuntansi dengan cara manual menjadi tidak terpakai.
+Selain itu komputer juga mampu melakukan analisis laporan keuangan dan analisis
+pasar, sehingga peranan seorang akuntan menjadi berkurang. Fenomena tersebut
+menjadi makin kuat dengan munculnya isu yang mengatakan bahwa lambat laun
+teknik double entry bookkeeping dapat ditinggalkan akibat fasilitas yang diberikan
+oleh basis data (Romney, Steinbart, Cushing, 1997:156). Pembukuan secara
+berpasangan dianggap redundant dalam basis data. Redundancy tidak dikehendaki
+di dalam basis data karena salah satu tujuan dari basis data adalah berusaha untuk
+menciptakan efisiensi.
